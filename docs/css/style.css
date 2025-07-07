@@ -58,7 +58,7 @@ nav ul li a:hover {
 }
  
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('20250514_2211_image.png') center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/20250514_2211_image.png') center/cover no-repeat;
     color: #fff;
     text-align: center;
     padding: 100px 0;
